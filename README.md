@@ -1,4 +1,4 @@
-## zimpligital_phutaneat_kr TEST - Music Playlist App (Flutter)
+## phutaneat_kr_music_playlist - Music Playlist App (Flutter)
 
 โปรเจกต์นี้ประกอบด้วยไฟล์หน้าจอหลัก 2 ไฟล์:
 
